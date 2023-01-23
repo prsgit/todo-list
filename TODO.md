@@ -8,19 +8,19 @@ This is the ckecklist of tasks to make a good readme:
 
 - [ ] Project Title
 
- - [ ] Description
+ -  [ ] Description
 
- - [ ] Getting Started
+ -  [ ] Getting Started
 
-   - [ ] Prerequisites
+   -  [ ] Prerequisites
 
-   - [ ] Installing
+   -  [ ] Installing
 
- - [ ] Deploymemt
+ -  [ ] Deploymemt
 
- - [ ] Built Whith
+ -  [ ] Built Whith
 
- - [ ] Authors
+ -  [ ] Authors
 
- - [ ] License
+ -  [ ] License
 
