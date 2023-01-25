@@ -44,7 +44,7 @@ Add additional notes to deploy this on a live system
 ## Authors
 
  - [Programmer A y B] - Provided README Template -
-   [Profile A y B](https//:github.com/prsgit/todo-list)
+   [Profile A y B](https://github.com/prsgit)
 
 See also the list of
 [contributors](https://github.com/PurpleBooth/a-goodreadme-template/contributors)
